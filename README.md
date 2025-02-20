@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img src="https://github-readme-stats.vercel.app/api?username=Ani7700&hide=issues&title_color=333&text_color=777" alt="Ani7700's Stats" >
-https://img.shields.io/badge/python-3.11-orange
 
