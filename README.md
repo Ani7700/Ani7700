@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **Ani7700/Ani7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://metrics.lecoq.io/Ani7700?template=classic&config.timezone=Asia%2FShanghai"> </div>
