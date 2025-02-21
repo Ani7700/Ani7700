@@ -34,7 +34,6 @@ I also have an interest in **data science, software engineering, and quant resea
 📊 Machine learning for **data-intensive applications**  
 🔥 Tricks for **GPU optimization in ML training**  
 🖥 Parallel computing techniques to **speed up AI workflows**  
-📈 Applications of **ML in quant research and predictive modeling**  
 
 ---
 
