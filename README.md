@@ -57,5 +57,5 @@ I also have an interest in **data science, software engineering, and quant resea
 
 Thanks for stopping by! 🚀 Let’s build something amazing together! 💡✨  
 
-# <img src="https://github-readme-stats.vercel.app/api?username=Ani7700&hide=issues&title_color=333&text_color=777" alt="Ani7700's Stats" >
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ani7700&hide=issues&title_color=333&text_color=777" alt="Ani7700's Stats" >>
 
