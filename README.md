@@ -45,7 +45,7 @@ I also have an interest in **data science, software engineering, and quant resea
 ---
 
 ## ⚡ Fun Facts  
-😄 I’ve been to **Japan multiple times** and love **exploring Japanese culture**! 🇯🇵  
+😄 I’ve been to **Japan multiple times** and love **exploring Japanese culture**! 
 🎬 I dream of **contributing to the film and animation industry** through AI innovations.  
 📊 I enjoy **tinkering with ML models for finance, trading, and real-world problem-solving**.  
 🎮 I love **gaming** and thinking about how AI can **enhance interactive storytelling**.  
