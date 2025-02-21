@@ -52,6 +52,9 @@ I also have an interest in **data science, software engineering, and quant resea
 
 ---
 
+## 🤩 What's New
+😃 I’m really excited to share that I will continue my study at University of Cambridge!!! It's always been my dream school and I've worked very hard to get in.
+
 Thanks for stopping by! 🚀 Let’s build something amazing together! 💡✨  
 
  <img src="https://github-readme-stats.vercel.app/api?username=Ani7700&hide=issues&title_color=333&text_color=777" alt="Ani7700's Stats" >
