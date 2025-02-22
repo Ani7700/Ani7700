@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jessy Qi! 🚀  
 
-Welcome to my GitHub profile! I'm an enthusiastic **computer vision researcher** 🧐 and a passionate **machine learning engineer** 🤖. My work revolves around **video understanding**, **machine learning models**, and **computational resource optimization**.  
+Welcome to my GitHub profile! I'm an enthusiastic **computer vision researcher** 🧐 and a progressing **machine learning engineer** 🤖. My work revolves around **video understanding**, **machine learning models**, and **computational resource optimization**.  
 
 I also have an interest in **data science, software engineering, and quant research**, especially in applying ML techniques to real-world problems.  
 
