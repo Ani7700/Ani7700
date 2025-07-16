@@ -30,20 +30,6 @@ I also have an interest in **data science, software engineering, and quant resea
 
 ---
 
-## 💬 Ask Me About  
- Video deconstruction and **human-AI collaboration in UI automation**  
- Machine learning for **data-intensive applications**  
- Tricks for **GPU optimization in ML training**  
- Parallel computing techniques to **speed up AI workflows**  
-
----
-
-## 📫 How to Reach Me  
- Drop me a message here on **GitHub**!  
- Let's connect on **LinkedIn** (*https://www.linkedin.com/in/ninghan-qi-koi05*)!  
-
----
-
 ## ⚡ Fun Facts  
  I’ve been to **Japan multiple times** and love **exploring Japanese culture**! 
  I dream of **contributing to the film and animation industry** through AI innovations.  
