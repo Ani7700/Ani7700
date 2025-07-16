@@ -7,9 +7,9 @@ I also have an interest in **data science, software engineering, and quant resea
 ---
 
 ## 🛠 What I'm Working On  
- Currently diving deep into **instructional video understanding** 🎥 and **automating software operations** 💻 with **LLMs and GUI agents**.  
+ Currently diving deep into **instructional video understanding**  and **automating software operations**  with **LLMs and GUI agents**.  
  Exploring ways to **optimize visual ML systems** through **parallel computing and numerical optimization**.  
- Investigating **storyboard generation** 📖 for creative applications in **film and animation**.  
+ Investigating **storyboard generation** for creative applications in **film and animation**.  
 
 ---
 
